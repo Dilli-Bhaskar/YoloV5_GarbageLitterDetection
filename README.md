@@ -22,3 +22,13 @@ $ pip install -U -r requirements.txt
 
 
 ---
+
+
+## Demonstration video
+
+
+[Garbage_Litter_Detection](https://youtu.be/3JjTJsr88MY)
+
+
+
+---
